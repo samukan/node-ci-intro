@@ -10,7 +10,7 @@ Repository: https://github.com/samukan/node-ci-intro
 
 Workflow screenshot
 
-![Workflow runs](screenshot/Screenshot 2025-09-15 153210.png)
+![Workflow runs](screenshot/1.png)
 
 Tests & code based on <https://github.com/ilkkamtk/integration-testing-ready>
 
